@@ -33,24 +33,7 @@ Data Collection: Uses a loop to gather age information for each student from the
 
 Data Display: Outputs the collected age information in a readable format.
 
-# Sample Output
-yaml
-Copy code
-Enter age for student 1: 20
-Enter age for student 2: 22
-Enter age for student 3: 18
-Enter age for student 4: 21
-Enter age for student 5: 19
-Enter age for student 6: 23
 
-Ages of the students:
-Student 1: 20
-Student 2: 22
-Student 3: 18
-Student 4: 21
-Student 5: 19
-Student 6: 23
-Save to grepper
 # License
 This project is licensed under the MIT License.
 
